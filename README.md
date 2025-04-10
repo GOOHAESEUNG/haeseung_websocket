@@ -88,10 +88,3 @@
 [📚 TIL 블로그 바로가기 (STOMP + Redis 채팅 정리)](https://gabalsebal.tistory.com/category/%F0%9F%8D%8ESpring/%EC%9B%B9%EC%86%8C%EC%BC%93_STOMP%20%EC%B1%84%ED%8C%85%20%EC%84%9C%EB%B9%84%EC%8A%A4)
 
 ---
-
-## 🧑‍💻 만든 사람
-
-	💡 구혜승 (GoO Hyesung)
-열정적으로 기록하고 성장 중인 백엔드 개발자!
-
----
